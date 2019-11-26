@@ -34,6 +34,6 @@ Known to work:
 values for each server
 -The pipe from the preference_checker() subprocess properly communicates to the
 main process 
-Unknown:
--Any of the programs communicating to one another, with the exception of the
-load balancer pinging the replica servers
+-Client can successfully obtain the full page from the replica server (!!!)
+To-do:
+-Logging/writing things to files
