@@ -1,9 +1,9 @@
-Header Structure (24 Bytes Total)
+Header Structure (32 Bytes Total)
 
 ---------------------------------------------
 | Sender (4 Bytes) | Message Type (4 Bytes) |
 ---------------------------------------------
-|	Message/Payload (16 Bytes)	    |
+|	Message/Payload (24 Bytes)	    |
 ---------------------------------------------
 
 
